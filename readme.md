@@ -9,7 +9,7 @@ Java, Python, JavaScript...
 
 
 ## 🚀 About Me
-I'm a develoepr that own BrutalBot and more projects!
+I'm a developing BruTalBOT and more projects!
 
 
 
